@@ -1,4 +1,4 @@
-devtools::use_package("prospectr")
+# devtools::use_package("prospectr")
 
 #' Read files from various formats into `spectra`
 #'
